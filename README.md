@@ -1,81 +1,48 @@
-# Hi 👋, I'm Nethindu Ashan
+<h1 align="center">Hi 👋, I'm Nethindu Ashan</h1>
 
-🎓 Software Engineering Undergraduate at SLIIT  
-🎨 UI/UX Enthusiast | Front-End Developer  
-💻 Passionate about building clean, user-friendly web applications  
+<h3 align="center">Software Engineering Undergraduate | SLIIT | UI/UX Enthusiast | Front-End Developer</h3>
 
 ---
 
-## 🧑‍💻 About Me
-
+## 👨‍💻 About Me
 - 🎓 3rd year Software Engineering student at SLIIT  
-- 🎨 Interested in UI/UX Design and Front-End Development  
-- ⚛️ Currently learning and working with React.js and modern web technologies  
-- 🚀 Love turning ideas into real-world web applications  
-- 📍 Based in Sri Lanka  
+- 🎨 Passionate about UI/UX Design & Front-End Development  
+- 💡 I enjoy building clean and user-friendly web applications  
+- 🚀 Currently learning React, Node.js & modern UI design  
+- 📍 Sri Lanka  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-- Java
-- JavaScript
-
-### 🌐 Frontend Development
-- HTML
-- CSS
-- React.js
-
-### 🧩 Backend Development
-- Node.js
-- Express.js
-
-### 🗄️ Databases
-- MongoDB
-
-### 🎨 UI/UX Design
-- Figma
-- Wireframing
-- Prototyping
-
-### 🔧 Tools
-- Git
-- GitHub
-- VS Code
-
----
-
-## 📌 Featured Projects
-
-🚧 *Coming Soon...*
-
-(Working on building strong UI/UX and full-stack projects)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,java,git,github" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nethindu-ashan&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nethindu-ashan&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nethindu-ashan&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethindu-ashan&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Currently Working On
+- UI/UX Design Projects 🎨  
+- React Web Applications ⚛️  
+- Full Stack Development 🌐  
 
 ---
 
 ## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/nethindu-ashan  
-- 📧 Email: nethinduashan01@gmail.com
-- 💻 GitHub: https://github.com/nethindu-ashan  
-
----
-
-## 🎯 Goals
-
-- Build real-world UI/UX focused projects  
-- Improve full-stack development skills  
-- Secure a software engineering internship  
-- Grow as a professional developer  
+- LinkedIn: https://www.linkedin.com/in/nethindu-ashan  
+- GitHub: https://github.com/nethindu-ashan  
 
 ---
 
